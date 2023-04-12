@@ -1,7 +1,8 @@
 easter project
+
+
 #include<iostream>
 using namespace std;
-
 int main() {
 	
 	// Set a default values
